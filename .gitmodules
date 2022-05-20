@@ -1,0 +1,9 @@
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/foostan/kbd
+[submodule "keyswitches.pretty"]
+	path = keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty
+[submodule "keyswitch-kicad-library"]
+	path = keyswitch-kicad-library
+	url = https://github.com/perigoso/keyswitch-kicad-library
